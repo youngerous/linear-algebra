@@ -9,6 +9,6 @@
 |5|~~고윳값과 대각화~~|
 |6|~~복소벡터공간~~|
 |7|~~최적화 문제~~|
-|8|자료의 처리|
+|8|~~자료의 처리~~|
 
 > [lecture link](https://www.youtube.com/playlist?list=PL127T2Zu76FuVMq1UQnZv9SG-GFIdZfLg)
